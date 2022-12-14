@@ -1,0 +1,140 @@
+.css-19r6kue-MuiContainer-root{
+    padding: 0px!important;
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 0 25px 0 0 !important;
+    border: none !important;
+    outline: none !important;
+}
+.btn-primary{
+    background-color: transparent !important;
+    white-space: nowrap !important;
+    border: none !important;
+    margin-top: 17% !important;
+    margin-left: 8% !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    color: #fff !important;
+    transition: 0.3s !important;
+}
+#idNav .btn-primary{
+    background-color: transparent !important;
+    white-space: nowrap !important;
+    border: none !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    color: #111 !important;
+    transition: 0.3s !important;
+}
+.hovIch{
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    color: #111 !important;
+    padding: 8px 0 !important;
+}
+.hovIch2{
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    color: #111 !important;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+}
+.dropdown-menu{
+    padding: 0 10px !important;
+    min-width: 175px !important;
+}
+.btn-primary {
+    margin-top: 0 !important;
+}
+.hovIch:hover{
+    color: #47b2e4 !important;
+    cursor: pointer;
+}
+.hovnav:hover{
+    color: #47b2e4 !important;
+    cursor: pointer;
+}
+.hovnav:focus{
+    color: #47b2e4!important;
+    cursor: pointer;
+}
+.hovnav:active{
+    color: #47b2e4!important;
+    cursor: pointer;
+}
+.btn-primary:hover{
+    color: #47b2e4!important;
+    cursor: pointer;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root{
+    box-shadow: none !important;
+}
+.css-15v22id-MuiAccordionDetails-root{
+    box-shadow:  0px 0px 30px rgb(127 137 161 / 25%) !important;
+    margin: 10px 20px 10px 25px !important;
+    padding: 10px 20px !important;
+    border-radius: 4px;
+}
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root{
+    padding: 0px 0 !important;
+    min-height: 41px !important;
+    max-height: 41px !important;
+}
+#it .css-15v22id-MuiAccordionDetails-root{
+    margin: 10px 0 !important;
+}
+.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+    position: relative !important;
+    left: 0 !important;
+    top: 0 !important;
+    min-width: 100% !important;
+    min-height: 100% !important;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root{
+    padding: 0 !important;
+    border-radius: 0 !important;
+    min-height: 100% !important;
+}
+.css-6hp17o-MuiList-root-MuiMenu-list{
+    padding: 0 !important;
+    border-radius: 0 !important;
+    min-height: 100% !important;
+}
+.css-1t3k1b1-MuiModal-root-MuiPopover-root-MuiMenu-root{
+    margin: 0 !important;
+    
+}
+.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+    background-color: transparent !important;
+    min-height: 100% !important;
+    margin: 0 !important;
+}
+.css-6hp17o-MuiList-root-MuiMenu-list{
+    min-height: 100% !important;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+    min-height: 100% !important;
+}
+.css-dg5vwq-MuiPaper-root-MuiAppBar-root{
+    background-color:#f6f7ff !important ;
+}
+.css-psnr55-MuiTypography-root-MuiLink-root{
+    margin: 0 !important;
+}
+@media screen and (max-width:700px) {
+    #mod .dropdown-toggle::after{
+        margin-left: 68% !important;
+    }
+    #mod .dropdown-menu{
+        width: 90% !important;
+        margin: 0 20px !important;
+        box-shadow: 0px 0px 30px rgb(127 137 161 / 25%) !important;
+        border: none !important;
+    }
+    #mod2 .dropdown-menu.show{
+        min-width: 91% !important;
+        transform: none !important;
+        margin: 0 !important;
+    }
+}
